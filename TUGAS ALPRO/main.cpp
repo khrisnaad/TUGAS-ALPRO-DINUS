@@ -84,6 +84,11 @@ int main()
     cout<<"hasil dari fungsi kali   : " << perkalian(a,b);
     cout<<"\n"<< endl;
     cout<<"------------------------------"<<endl;
+    
+    //output fungsi pembagian
+    cout<<"hasil dari fungsi bagi  : " << pembagian(a,b);
+    cout<< "\n" << endl;
+    cout<<"------------------------------"<<endl;
 
     jmlarray();
     return 0;
